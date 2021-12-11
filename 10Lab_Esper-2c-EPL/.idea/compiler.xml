@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="09Lab_Esper-1c-podstawy" />
         <module name="podstawowy" />
+        <module name="10Lab_Esper-2c-EPL" />
       </profile>
     </annotationProcessing>
   </component>
